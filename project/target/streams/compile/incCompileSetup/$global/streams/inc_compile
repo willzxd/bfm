@@ -1,0 +1,252 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.10.3
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+51 items
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$common$1.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$common$2.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$common$3.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$common$4.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$commonSettings$1.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagen$1.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagen$2.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagen$3.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagen$4.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagen$5.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagenSettings$1.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagenSettings$2.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagenSettings$3.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$excludeJARfromCOMMON$1$$anonfun$apply$3.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$excludeJARfromCOMMON$1.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$extraAssemblySettings$1.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$extraAssemblySettings$2$$anonfun$apply$2.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$extraAssemblySettings$2.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgen$1.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgen$2.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgen$3.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgen$4.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgen$5.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgen$6.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgenSettings$1.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgenSettings$2$$anonfun$apply$1.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgenSettings$2.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$root$1.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$root$2.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$root$3.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$root$4.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$rootSettings$1.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$1.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$10.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$2.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$3.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$4.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$5.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$6.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$7.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$8.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$9.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$workflows$1.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$workflows$2.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$workflows$3.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$workflows$4.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$workflows$5.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$workflowsSettings$1.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$workflowsSettings$2.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$.class
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild.class
+binary dependencies:
+11 items
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.2.jar
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.2.jar
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.2.jar
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.2.jar
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.2.jar
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.2.jar
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.2.jar
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.2.jar
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.9.1.jar
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> /Users/Will/.sbt/boot/scala-2.10.3/lib/scala-library.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+51 items
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$common$1
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$common$2
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$common$3
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$common$4
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$commonSettings$1
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$datagen$1
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$datagen$2
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$datagen$3
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$datagen$4
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$datagen$5
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$datagenSettings$1
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$datagenSettings$2
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$datagenSettings$3
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$excludeJARfromCOMMON$1
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$excludeJARfromCOMMON$1$$anonfun$apply$3
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$extraAssemblySettings$1
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$extraAssemblySettings$2
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$extraAssemblySettings$2$$anonfun$apply$2
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$qgen$1
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$qgen$2
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$qgen$3
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$qgen$4
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$qgen$5
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$qgen$6
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$qgenSettings$1
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$qgenSettings$2
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$qgenSettings$2$$anonfun$apply$1
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$root$1
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$root$2
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$root$3
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$root$4
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$rootSettings$1
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$sharedSettings$1
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$sharedSettings$10
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$sharedSettings$2
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$sharedSettings$3
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$sharedSettings$4
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$sharedSettings$5
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$sharedSettings$6
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$sharedSettings$7
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$sharedSettings$8
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$sharedSettings$9
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$workflows$1
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$workflows$2
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$workflows$3
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$workflows$4
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$workflows$5
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$workflowsSettings$1
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> BigFrameBuild$$anonfun$workflowsSettings$2
+used names:
+0 items
+product stamps:
+51 items
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$common$1.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$common$2.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$common$3.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$common$4.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$commonSettings$1.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagen$1.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagen$2.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagen$3.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagen$4.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagen$5.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagenSettings$1.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagenSettings$2.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$datagenSettings$3.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$excludeJARfromCOMMON$1$$anonfun$apply$3.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$excludeJARfromCOMMON$1.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$extraAssemblySettings$1.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$extraAssemblySettings$2$$anonfun$apply$2.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$extraAssemblySettings$2.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgen$1.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgen$2.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgen$3.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgen$4.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgen$5.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgen$6.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgenSettings$1.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgenSettings$2$$anonfun$apply$1.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$qgenSettings$2.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$root$1.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$root$2.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$root$3.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$root$4.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$rootSettings$1.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$1.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$10.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$2.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$3.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$4.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$5.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$6.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$7.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$8.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$sharedSettings$9.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$workflows$1.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$workflows$2.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$workflows$3.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$workflows$4.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$workflows$5.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$workflowsSettings$1.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$$anonfun$workflowsSettings$2.class -> lastModified(1427919382000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild$.class -> lastModified(1427919381000)
+/Users/Will/516/BigFrame/project/target/scala-2.10/sbt-0.13/classes/BigFrameBuild.class -> lastModified(1427919381000)
+source stamps:
+1 items
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> hash(0b7bcf256f35b675a1b576dff74ecd40e8f5c791)
+binary stamps:
+11 items
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar -> lastModified(1401314157000)
+/Users/Will/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.2.jar -> lastModified(1397489256000)
+/Users/Will/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.2.jar -> lastModified(1397489227000)
+/Users/Will/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.2.jar -> lastModified(1397489232000)
+/Users/Will/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.2.jar -> lastModified(1397489301000)
+/Users/Will/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.2.jar -> lastModified(1397489320000)
+/Users/Will/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.2.jar -> lastModified(1397489352000)
+/Users/Will/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.2.jar -> lastModified(1397489344000)
+/Users/Will/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.2.jar -> lastModified(1397489286000)
+/Users/Will/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.9.1.jar -> lastModified(1374963781000)
+/Users/Will/.sbt/boot/scala-2.10.3/lib/scala-library.jar -> lastModified(1380275091000)
+class names:
+11 items
+/System/Library/Java/JavaVirtualMachines/1.6.0.jdk/Contents/Classes/classes.jar -> java.io.Serializable
+/Users/Will/.ivy2/cache/org.scala-sbt/apply-macro/jars/apply-macro-0.13.2.jar -> sbt.appmacro.Instance$
+/Users/Will/.ivy2/cache/org.scala-sbt/collections/jars/collections-0.13.2.jar -> sbt.Attributed
+/Users/Will/.ivy2/cache/org.scala-sbt/io/jars/io-0.13.2.jar -> sbt.RichFile
+/Users/Will/.ivy2/cache/org.scala-sbt/ivy/jars/ivy-0.13.2.jar -> sbt.impl.GroupID
+/Users/Will/.ivy2/cache/org.scala-sbt/main-settings/jars/main-settings-0.13.2.jar -> sbt.std.FullInstance$
+/Users/Will/.ivy2/cache/org.scala-sbt/main/jars/main-0.13.2.jar -> sbt.Build
+/Users/Will/.ivy2/cache/org.scala-sbt/sbt/jars/sbt-0.13.2.jar -> sbt.package$
+/Users/Will/.ivy2/cache/org.scala-sbt/task-system/jars/task-system-0.13.2.jar -> sbt.Task
+/Users/Will/.ivy2/cache/scala_2.10/sbt_0.13/com.eed3si9n/sbt-assembly/jars/sbt-assembly-0.9.1.jar -> sbtassembly.Plugin$
+/Users/Will/.sbt/boot/scala-2.10.3/lib/scala-library.jar -> scala.Serializable
+internal apis:
+1 items
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCty++9AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAANQmlnRnJhbWVCdWlsZHVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AC94cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AC4AcHNxAH4AM3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgAVTAAJaW5oZXJpdGVkcQB+ABVMAAdwYXJlbnRzcQB+ABV4cQB+ADdzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VxAH4AEAAAAABzcQB+AC4AcHNxAH4AM3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAADc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4ANnQABUJ1aWxkc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA2c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AANzYnRzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AVHNxAH4AR3QABk9iamVjdHNxAH4AS3NxAH4ATnVxAH4AUQAAAANzcQB+AFN0AARqYXZhc3EAfgBTdAAEbGFuZ3EAfgBYc3EAfgBHdAADQW55c3EAfgBLc3EAfgBOdXEAfgBRAAAAAnNxAH4AU3QABXNjYWxhcQB+AFh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHaglDh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdABDL1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvdGFyZ2V0L3NjYWxhLTIuMTAvc2J0LTAuMTMvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAt7zyVvNbZ1obV23/dOzUDo9ceR
+external apis:
+0 items
+source infos:
+1 items
+/Users/Will/516/BigFrame/project/BigFrameBuild.scala -> 
+AAAAAAAAABcAAAEAAAATAFsJbGF6eSB2YWwgY29tbW9uID0gUHJvamVjdChpZCA9ICJjb21tb24iLCBiYXNlID0gZmlsZSgiY29tbW9uIiksIHNldHRpbmdzID0gY29tbW9uU2V0dGluZ3MpAQAAAfYBAAAATAEATAkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvV2lsbC81MTYvQmlnRnJhbWUvcHJvamVjdC9CaWdGcmFtZUJ1aWxkLnNjYWxhAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQA9dHlwZSBTZXR0aW5nIGluIG9iamVjdCBQcm9qZWN0IGlzIGRlcHJlY2F0ZWQ6IFVzZSBEZWYuU2V0dGluZwEAAAEAAAAVAHEJbGF6eSB2YWwgZGF0YWdlbiA9IFByb2plY3QoaWQgPSAiZGF0YWdlbiIsIGJhc2UgPSBmaWxlKCJkYXRhZ2VuIiksIHNldHRpbmdzID0gZGF0YWdlblNldHRpbmdzKSBkZXBlbmRzT24oY29tbW9uKQEAAAJWAQAAAE8BAE8JICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEAPXR5cGUgU2V0dGluZyBpbiBvYmplY3QgUHJvamVjdCBpcyBkZXByZWNhdGVkOiBVc2UgRGVmLlNldHRpbmcBAAABAAAAFwB5CWxhenkgdmFsIHdvcmtmbG93cyA9IFByb2plY3QoaWQgPSAid29ya2Zsb3dzIiwgYmFzZSA9IGZpbGUoIndvcmtmbG93cyIpLCBzZXR0aW5ncyA9IHdvcmtmbG93c1NldHRpbmdzKSBkZXBlbmRzT24oY29tbW9uKQEAAALPAQAAAFUBAFUJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEAPXR5cGUgU2V0dGluZyBpbiBvYmplY3QgUHJvamVjdCBpcyBkZXByZWNhdGVkOiBVc2UgRGVmLlNldHRpbmcBAAABAAAAGQBwCWxhenkgdmFsIHFnZW4gPSBQcm9qZWN0KGlkID0gInFnZW4iLCBiYXNlID0gZmlsZSgicWdlbiIpLCBzZXR0aW5ncyA9IHFnZW5TZXR0aW5ncykgZGVwZW5kc09uKGNvbW1vbiwgd29ya2Zsb3dzKQEAAAM7AQAAAEYBAEYJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEAPXR5cGUgU2V0dGluZyBpbiBvYmplY3QgUHJvamVjdCBpcyBkZXByZWNhdGVkOiBVc2UgRGVmLlNldHRpbmcBAAABAAAAQgBACWRlZiBjb21tb25TZXR0aW5ncyA9IGFzc2VtYmx5U2V0dGluZ3MgKysgc2hhcmVkU2V0dGluZ3MgKysgU2VxKAEAAAjwAQAAAAUBAAUJICAgIAEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEBADQvVXNlcnMvV2lsbC81MTYvQmlnRnJhbWUvcHJvamVjdC9CaWdGcmFtZUJ1aWxkLnNjYWxhAD10eXBlIFNldHRpbmcgaW4gb2JqZWN0IFByb2plY3QgaXMgZGVwcmVjYXRlZDogVXNlIERlZi5TZXR0aW5nAQAAAQAAAEIAQAlkZWYgY29tbW9uU2V0dGluZ3MgPSBhc3NlbWJseVNldHRpbmdzICsrIHNoYXJlZFNldHRpbmdzICsrIFNlcSgBAAAJEgEAAAAnAQAnCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEAPXR5cGUgU2V0dGluZyBpbiBvYmplY3QgUHJvamVjdCBpcyBkZXByZWNhdGVkOiBVc2UgRGVmLlNldHRpbmcBAAABAAAAQgBACWRlZiBjb21tb25TZXR0aW5ncyA9IGFzc2VtYmx5U2V0dGluZ3MgKysgc2hhcmVkU2V0dGluZ3MgKysgU2VxKAEAAAkkAQAAADkBADkJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvV2lsbC81MTYvQmlnRnJhbWUvcHJvamVjdC9CaWdGcmFtZUJ1aWxkLnNjYWxhAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQA9dHlwZSBTZXR0aW5nIGluIG9iamVjdCBQcm9qZWN0IGlzIGRlcHJlY2F0ZWQ6IFVzZSBEZWYuU2V0dGluZwEAAAEAAABEABwJKSArKyBleHRyYUFzc2VtYmx5U2V0dGluZ3MgAQAACUsBAAAAAwEAAwkgIAEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEBADQvVXNlcnMvV2lsbC81MTYvQmlnRnJhbWUvcHJvamVjdC9CaWdGcmFtZUJ1aWxkLnNjYWxhAD10eXBlIFNldHRpbmcgaW4gb2JqZWN0IFByb2plY3QgaXMgZGVwcmVjYXRlZDogVXNlIERlZi5TZXR0aW5nAQAAAQAAAEYAQQlkZWYgZGF0YWdlblNldHRpbmdzID0gYXNzZW1ibHlTZXR0aW5ncyArKyBzaGFyZWRTZXR0aW5ncyArKyBTZXEoAQAACWsBAAAABQEABQkgICAgAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEAPXR5cGUgU2V0dGluZyBpbiBvYmplY3QgUHJvamVjdCBpcyBkZXByZWNhdGVkOiBVc2UgRGVmLlNldHRpbmcBAAABAAAARgBBCWRlZiBkYXRhZ2VuU2V0dGluZ3MgPSBhc3NlbWJseVNldHRpbmdzICsrIHNoYXJlZFNldHRpbmdzICsrIFNlcSgBAAAJjgEAAAAoAQAoCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEBADQvVXNlcnMvV2lsbC81MTYvQmlnRnJhbWUvcHJvamVjdC9CaWdGcmFtZUJ1aWxkLnNjYWxhAD10eXBlIFNldHRpbmcgaW4gb2JqZWN0IFByb2plY3QgaXMgZGVwcmVjYXRlZDogVXNlIERlZi5TZXR0aW5nAQAAAQAAAEYAQQlkZWYgZGF0YWdlblNldHRpbmdzID0gYXNzZW1ibHlTZXR0aW5ncyArKyBzaGFyZWRTZXR0aW5ncyArKyBTZXEoAQAACaABAAAAOgEAOgkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvV2lsbC81MTYvQmlnRnJhbWUvcHJvamVjdC9CaWdGcmFtZUJ1aWxkLnNjYWxhAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQA9dHlwZSBTZXR0aW5nIGluIG9iamVjdCBQcm9qZWN0IGlzIGRlcHJlY2F0ZWQ6IFVzZSBEZWYuU2V0dGluZwEAAAEAAABWADMJKSArKyBleHRyYUFzc2VtYmx5U2V0dGluZ3MgKysgZXhjbHVkZUpBUmZyb21DT01NT04BAAAMBgEAAAADAQADCSAgAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEAPXR5cGUgU2V0dGluZyBpbiBvYmplY3QgUHJvamVjdCBpcyBkZXByZWNhdGVkOiBVc2UgRGVmLlNldHRpbmcBAAABAAAAVgAzCSkgKysgZXh0cmFBc3NlbWJseVNldHRpbmdzICsrIGV4Y2x1ZGVKQVJmcm9tQ09NTU9OAQAADB8BAAAAHAEAHAkgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvV2lsbC81MTYvQmlnRnJhbWUvcHJvamVjdC9CaWdGcmFtZUJ1aWxkLnNjYWxhAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQA9dHlwZSBTZXR0aW5nIGluIG9iamVjdCBQcm9qZWN0IGlzIGRlcHJlY2F0ZWQ6IFVzZSBEZWYuU2V0dGluZwEAAAEAAABYAEMJZGVmIHdvcmtmbG93c1NldHRpbmdzID0gYXNzZW1ibHlTZXR0aW5ncyArKyBzaGFyZWRTZXR0aW5ncyArKyBTZXEoAQAADD0BAAAABQEABQkgICAgAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEAPXR5cGUgU2V0dGluZyBpbiBvYmplY3QgUHJvamVjdCBpcyBkZXByZWNhdGVkOiBVc2UgRGVmLlNldHRpbmcBAAABAAAAWABDCWRlZiB3b3JrZmxvd3NTZXR0aW5ncyA9IGFzc2VtYmx5U2V0dGluZ3MgKysgc2hhcmVkU2V0dGluZ3MgKysgU2VxKAEAAAxiAQAAACoBACoJICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvV2lsbC81MTYvQmlnRnJhbWUvcHJvamVjdC9CaWdGcmFtZUJ1aWxkLnNjYWxhAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQA9dHlwZSBTZXR0aW5nIGluIG9iamVjdCBQcm9qZWN0IGlzIGRlcHJlY2F0ZWQ6IFVzZSBEZWYuU2V0dGluZwEAAAEAAABYAEMJZGVmIHdvcmtmbG93c1NldHRpbmdzID0gYXNzZW1ibHlTZXR0aW5ncyArKyBzaGFyZWRTZXR0aW5ncyArKyBTZXEoAQAADHQBAAAAPAEAPAkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEBADQvVXNlcnMvV2lsbC81MTYvQmlnRnJhbWUvcHJvamVjdC9CaWdGcmFtZUJ1aWxkLnNjYWxhAD10eXBlIFNldHRpbmcgaW4gb2JqZWN0IFByb2plY3QgaXMgZGVwcmVjYXRlZDogVXNlIERlZi5TZXR0aW5nAQAAAQAAAGUAMwkpICsrIGV4dHJhQXNzZW1ibHlTZXR0aW5ncyArKyBleGNsdWRlSkFSZnJvbUNPTU1PTgEAAA4VAQAAAAMBAAMJICABADQvVXNlcnMvV2lsbC81MTYvQmlnRnJhbWUvcHJvamVjdC9CaWdGcmFtZUJ1aWxkLnNjYWxhAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQA9dHlwZSBTZXR0aW5nIGluIG9iamVjdCBQcm9qZWN0IGlzIGRlcHJlY2F0ZWQ6IFVzZSBEZWYuU2V0dGluZwEAAAEAAABlADMJKSArKyBleHRyYUFzc2VtYmx5U2V0dGluZ3MgKysgZXhjbHVkZUpBUmZyb21DT01NT04BAAAOLgEAAAAcAQAcCSAgICAgICAgICAgICAgICAgICAgICAgICAgIAEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEBADQvVXNlcnMvV2lsbC81MTYvQmlnRnJhbWUvcHJvamVjdC9CaWdGcmFtZUJ1aWxkLnNjYWxhAD10eXBlIFNldHRpbmcgaW4gb2JqZWN0IFByb2plY3QgaXMgZGVwcmVjYXRlZDogVXNlIERlZi5TZXR0aW5nAQAAAQAAAGcAPglkZWYgcWdlblNldHRpbmdzID0gYXNzZW1ibHlTZXR0aW5ncyArKyBzaGFyZWRTZXR0aW5ncyArKyBTZXEoAQAADkwBAAAABQEABQkgICAgAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEAPXR5cGUgU2V0dGluZyBpbiBvYmplY3QgUHJvamVjdCBpcyBkZXByZWNhdGVkOiBVc2UgRGVmLlNldHRpbmcBAAABAAAAZwA+CWRlZiBxZ2VuU2V0dGluZ3MgPSBhc3NlbWJseVNldHRpbmdzICsrIHNoYXJlZFNldHRpbmdzICsrIFNlcSgBAAAObAEAAAAlAQAlCSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEBADQvVXNlcnMvV2lsbC81MTYvQmlnRnJhbWUvcHJvamVjdC9CaWdGcmFtZUJ1aWxkLnNjYWxhAD10eXBlIFNldHRpbmcgaW4gb2JqZWN0IFByb2plY3QgaXMgZGVwcmVjYXRlZDogVXNlIERlZi5TZXR0aW5nAQAAAQAAAGcAPglkZWYgcWdlblNldHRpbmdzID0gYXNzZW1ibHlTZXR0aW5ncyArKyBzaGFyZWRTZXR0aW5ncyArKyBTZXEoAQAADn4BAAAANwEANwkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvV2lsbC81MTYvQmlnRnJhbWUvcHJvamVjdC9CaWdGcmFtZUJ1aWxkLnNjYWxhAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQA9dHlwZSBTZXR0aW5nIGluIG9iamVjdCBQcm9qZWN0IGlzIGRlcHJlY2F0ZWQ6IFVzZSBEZWYuU2V0dGluZwEAAAEAAAB1ADMJKSArKyBleHRyYUFzc2VtYmx5U2V0dGluZ3MgKysgZXhjbHVkZUpBUmZyb21DT01NT04BAAAPwgEAAAADAQADCSAgAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQEANC9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L0JpZ0ZyYW1lQnVpbGQuc2NhbGEAPXR5cGUgU2V0dGluZyBpbiBvYmplY3QgUHJvamVjdCBpcyBkZXByZWNhdGVkOiBVc2UgRGVmLlNldHRpbmcBAAABAAAAdQAzCSkgKysgZXh0cmFBc3NlbWJseVNldHRpbmdzICsrIGV4Y2x1ZGVKQVJmcm9tQ09NTU9OAQAAD9sBAAAAHAEAHAkgICAgICAgICAgICAgICAgICAgICAgICAgICABADQvVXNlcnMvV2lsbC81MTYvQmlnRnJhbWUvcHJvamVjdC9CaWdGcmFtZUJ1aWxkLnNjYWxhAQA0L1VzZXJzL1dpbGwvNTE2L0JpZ0ZyYW1lL3Byb2plY3QvQmlnRnJhbWVCdWlsZC5zY2FsYQA9dHlwZSBTZXR0aW5nIGluIG9iamVjdCBQcm9qZWN0IGlzIGRlcHJlY2F0ZWQ6IFVzZSBEZWYuU2V0dGluZwE=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABTHaglDh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAQy9Vc2Vycy9XaWxsLzUxNi9CaWdGcmFtZS9wcm9qZWN0L3RhcmdldC9zY2FsYS0yLjEwL3NidC0wLjEzL2NsYXNzZXN0AAEv

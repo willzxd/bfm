@@ -1,0 +1,48 @@
+<!--# TODO: dynamic drop down meunu for system settings-->
+
+<%= form_tag("/execution/submit") do %>
+
+<h3>Query Specification</h3>
+	<h5>Query Volume</h5>
+  <%= select_tag(:query_volume, options_for_select(['small','medium','large']) ) %>
+  <br><br>
+
+  <h5>Query Variety</h5>
+  <%= select_tag(:query_variety, options_for_select([
+    ['relational data only','relational'],['text data only','nested'],['graph only','graph'], 
+    ['mix of relational and text data','relational, nested'],['mix of relational, text and graph data','relational, nested, graph']])) %>
+  <br><br>
+
+
+  <h5>Query Velocity</h5>
+  <%= select_tag(:query_velocity, options_for_select(['exploratory','continuous'])) %>
+
+  <hr>
+
+<h3>Systems Under Test</h3>
+<h5>Relational</h5>
+<%= select_tag(:queryengine_relational, options_for_select(['hive','shark','hadoop', 'spark', 'vertica'])) %>
+
+<h5>Text</h5>
+<%= select_tag(:queryengine_nested, options_for_select(['hadoop', 'spark', 'vertica'])) %>
+
+<h5>Graph</h5>
+<%= select_tag(:queryengine_graph, options_for_select(['hadoop', 'spark', 'vertica'])) %>
+
+<!--
+<h5>Global Parameters</h5>
+  <%=label_tag :slide, '$HADOOP_HOME'%>
+  <%= text_field_tag(:hadoop_home, @hadoop_home) %>
+  <%=label_tag :range, '$SPARK_HOME'%>
+  <%= text_field_tag(:spark_home, @tpchds_local) %>
+<hr>
+-->
+  <hr>
+<h3>HDFS Root Path</h3>
+  <%=label_tag :path_input, '$HDFS_ROOT_DIR'%>
+  <%= text_field_tag(:hdfs_root_dir, @hadoop_home) %>
+<br>
+  <%= submit_tag("Run Query", :name => 'submit', :class=>"btn btn-large btn-primary" ) %>
+
+
+<% end %>
