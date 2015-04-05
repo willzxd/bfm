@@ -14,9 +14,10 @@ import bigframe.util.Config;
 public class WorkflowInputFormat extends Config {
 	
 	private String HADOOP_HOME = "";
-	private String HDFS_ROOT_DIR = "";
+	private String HDFS_ROOT_DIR = "";//add this for hadoop 2.x, willzxd
 	private String WEBHDFS_ROOT_DIR = "";
 	private String HADOOP_USERNAME = "";
+	private String HADOOP_CONF_DIR="";
 	
 	private String HIVE_HOME = "";
 	private String HIVE_JDBC_SERVER = "";
@@ -50,6 +51,10 @@ public class WorkflowInputFormat extends Config {
 	
 	public String getHadoopHome() {
 		return HADOOP_HOME;
+	}
+	//add this for hadoop 2.x, willzxd
+	public String getHadoopConf(){
+		return HADOOP_CONF_DIR;
 	}
 	
 	public String getHadoopUserName() {
@@ -167,6 +172,10 @@ public class WorkflowInputFormat extends Config {
 			
 			if (key.equals(BigConfConstants.BIGFRAME_HADOOP_HOME)) {
 				HADOOP_HOME = value;
+			}
+			//add new HADOOP_CONF_DIR,willzxd
+			else if (key.equals(BigConfConstants.BIGFRAME_HADOOP_CONF_DIR)){
+				HADOOP_CONF_DIR = value;
 			}
 			
 			else if (key.equals(BigConfConstants.BIGFRAME_WEBHDFS_ROOTDIR)) {
